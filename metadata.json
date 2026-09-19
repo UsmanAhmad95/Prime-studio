@@ -1,0 +1,6 @@
+{
+  "name": "Prime Studio",
+  "description": "Prime Studio builds professional websites, digital business systems, and AI-powered solutions designed around how your business works.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
